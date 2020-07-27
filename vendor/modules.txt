@@ -1,0 +1,4 @@
+# github.com/martinkunc/wagather v0.0.0-20200727110959-e905a78a3d7d
+github.com/martinkunc/wagather/wasm
+# github.com/wasmerio/go-ext-wasm v0.3.1
+github.com/wasmerio/go-ext-wasm/wasmer
